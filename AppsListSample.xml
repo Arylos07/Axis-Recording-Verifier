@@ -1,0 +1,7 @@
+﻿<reply result="ok">
+	<application Name="platformagent" NiceName="Y6 Platform Agent" Vendor="YourSix Inc." Version="1.1-5" ApplicationID="414680" License="None" Status="Running" LicenseName="Available" />
+	<application Name="platformtraxproxy" NiceName="Y6 Platform TRAX Proxy" Vendor="YourSix Inc." Version="1.1-0" ApplicationID="414695" License="None" Status="Running" LicenseName="Available" />
+	<application Name="vmd" NiceName="AXIS Video Motion Detection" Vendor="Axis Communications" Version="4.5-8" ApplicationID="143440" License="None" Status="Stopped" ConfigurationPage="local/vmd/config.html" VendorHomePage="http://www.axis.com" LicenseName="Proprietary" />
+	<application Name="AXISImageHealthAnalytics" ApplicationID="414427" NiceName="AXIS Image Health Analytics" Vendor="Axis Communications" Version="1.1.3" Status="Stopped" License="None" ConfigurationPage="local/AXISImageHealthAnalytics/index.html" VendorHomePage="https://www.axis.com" LicenseName="available"></application>
+	<application Name="objectanalytics" ApplicationID="412806" NiceName="AXIS Object Analytics" Vendor="Axis Communications" Version="1.16.24" Status="Stopped" License="None" ConfigurationPage="local/objectanalytics/index.html" VendorHomePage="http://www.axis.com" LicenseName="available"></application>
+</reply>

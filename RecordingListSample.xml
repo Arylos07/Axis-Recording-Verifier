@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.axis.com/vapix/http_cgi/recording/list1.xsd">
+	<recordings totalnumberofrecordings="8" numberofrecordings="8">
+		<recording diskid="SD_DISK" recordingid="20251020_101320_C6B5_B8A44F445F5A" starttime="2025-10-20T15:13:20.164869Z" starttimelocal="2025-10-20T10:13:20.164869-05:00" stoptime="" stoptimelocal="" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="recording" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+		<recording diskid="SD_DISK" recordingid="20251008_125059_AF38_B8A44F445F5A" starttime="2025-10-08T17:50:59.609551Z" starttimelocal="2025-10-08T12:50:59.609551-05:00" stoptime="2025-10-20T15:12:51.094736Z" stoptimelocal="2025-10-20T10:12:51.094736-05:00" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="completed" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+		<recording diskid="SD_DISK" recordingid="20251008_122933_D383_B8A44F445F5A" starttime="2025-10-08T17:29:33.091553Z" starttimelocal="2025-10-08T12:29:33.091553-05:00" stoptime="2025-10-08T17:50:31.222234Z" stoptimelocal="2025-10-08T12:50:31.222234-05:00" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="completed" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+		<recording diskid="SD_DISK" recordingid="20250915_191026_F56A_B8A44F445F5A" starttime="2025-09-16T00:10:26.455775Z" starttimelocal="2025-09-15T19:10:26.455775-05:00" stoptime="2025-10-08T17:29:03.849430Z" stoptimelocal="2025-10-08T12:29:03.849430-05:00" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="completed" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+		<recording diskid="SD_DISK" recordingid="20250915_182850_CCAE_B8A44F445F5A" starttime="2025-09-15T23:28:50.233824Z" starttimelocal="2025-09-15T18:28:50.233824-05:00" stoptime="2025-09-16T00:09:50.187022Z" stoptimelocal="2025-09-15T19:09:50.187022-05:00" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="completed" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+		<recording diskid="SD_DISK" recordingid="20250705_214346_641F_B8A44F445F5A" starttime="2025-07-06T02:43:46.774477Z" starttimelocal="2025-07-05T21:43:46.774477-05:00" stoptime="2025-09-15T23:28:13.430344Z" stoptimelocal="2025-09-15T18:28:13.430344-05:00" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="completed" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+		<recording diskid="SD_DISK" recordingid="20250605_103924_938A_B8A44F445F5A" starttime="2025-06-05T15:39:24.269622Z" starttimelocal="2025-06-05T10:39:24.269622-05:00" stoptime="2025-07-06T00:39:17.838091Z" stoptimelocal="2025-07-05T19:39:17.838091-05:00" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="completed" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+		<recording diskid="SD_DISK" recordingid="20250418_010726_74AD_B8A44F445F5A" starttime="2025-06-02T08:18:01.068218Z" starttimelocal="2025-06-02T03:18:01.068218-05:00" stoptime="2025-06-05T15:09:45.707823Z" stoptimelocal="2025-06-05T10:09:45.707823-05:00" recordingtype="triggered" eventid="YourSix cfb9cb22345547a21f9175c7e5f19ff7" eventtrigger="YourSix 20253e6d9848704eafa50737de697d62" recordingstatus="completed" source="1" locked="No">
+			<video mimetype="video/x-h264" width="1920" height="1080" framerate="15:1" resolution="1920x1080"/>
+		</recording>
+	</recordings>
+</root>
